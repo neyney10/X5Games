@@ -1,1 +1,1 @@
-web: java -jar target/ServerAvalonBeta.jar
+web: java -jar ServerAvalonBeta.jar
